@@ -1,9 +1,7 @@
 # 🧑‍💼 Employee Details Validator
 
 
-This Java program accepts and prints employee details while ensuring the input meets specific validation criteria. If the input is invalid, it throws user-defined exceptions with
-
-appropriate error messages.
+This Java program accepts and prints employee details while ensuring the input meets specific validation criteria. If the input is invalid, it throws user-defined exceptions with appropriate error messages.
 
 ## ✨ Features
 
